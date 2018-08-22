@@ -1,0 +1,2 @@
+# clinsim
+Generative Adversarial Network (GAN) based clinical data simulator. The adversarial neural network is used to create simulated data from the original data distribution. Optional parameters can be passed to simulate data for a subset of the original data. The purpose is to generate data that has the same properties as original clinical data but no constraints on public sharing, thus providing a means of public reproduction of results, increase data availability and promote data integration.
